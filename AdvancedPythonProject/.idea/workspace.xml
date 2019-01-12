@@ -1,10 +1,93 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="99cfb41f-03d4-43e9-8cdc-b4b58036320d" name="Default Changelist" comment="">
+    <list default="true" id="99cfb41f-03d4-43e9-8cdc-b4b58036320d" name="Default Changelist" comment="adding fileio read practice python file">
+      <change afterPath="$PROJECT_DIR$/BinaryIO.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/binary1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/binary2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pickleImelda" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pickleprogramming.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/receipe.bak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/receipe.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/receipe.dir" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recepieShelveProgramming.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shelveChallenge.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shelveFile.bak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shelveFile.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shelveFile.dir" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shelveProgramming.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PythonProgramming/AdvancedPythonProject/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PythonProgramming/AdvancedPythonProject/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PythonProgramming/AdvancedPythonProject/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PythonProgramming/AdvancedPythonProject/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PythonProgramming/AdvancedPythonProject/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PythonProgramming/AdvancedPythonProject/AdvancedPythonProject.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PythonProgramming/AdvancedPythonProject/FileIOChallenge.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PythonProgramming/AdvancedPythonProject/FileIORead.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PythonProgramming/AdvancedPythonProject/FileIOWrite.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PythonProgramming/AdvancedPythonProject/cityFile.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PythonProgramming/AdvancedPythonProject/pickleProgramming.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PythonProgramming/AdvancedPythonProject/sample.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PythonProgramming/AdvancedPythonProject/sample1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PythonProgramming/HelloWorld/.idea/dictionaries/varinder.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PythonProgramming/HelloWorld/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PythonProgramming/HelloWorld/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PythonProgramming/HelloWorld/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PythonProgramming/HelloWorld/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PythonProgramming/HelloWorld/DictionaryPrograming.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PythonProgramming/HelloWorld/FlowControl1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PythonProgramming/HelloWorld/Hello.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PythonProgramming/HelloWorld/HelloWorld.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PythonProgramming/HelloWorld/IPAddressProblem.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PythonProgramming/HelloWorld/IteratorProgramming.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PythonProgramming/HelloWorld/ListProgramUsingConstructor.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PythonProgramming/HelloWorld/ListProgramming.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PythonProgramming/HelloWorld/RangeProgramming.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PythonProgramming/HelloWorld/SetChallenge.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PythonProgramming/HelloWorld/SetQnAProblems.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PythonProgramming/HelloWorld/StringFormatting.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PythonProgramming/HelloWorld/StringManipulationJoin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PythonProgramming/HelloWorld/TestWhileLoopQuizProblem8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PythonProgramming/HelloWorld/TupleProgramming.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PythonProgramming/HelloWorld/continuebreak.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PythonProgramming/HelloWorld/forLooping.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PythonProgramming/HelloWorld/frozenSetPrograming.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PythonProgramming/HelloWorld/ifthenelse.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PythonProgramming/HelloWorld/setProgramming.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PythonProgramming/HelloWorld/variables.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PythonProgramming/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PythonProgramming/awsboto/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PythonProgramming/awsboto/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PythonProgramming/awsboto/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PythonProgramming/awsboto/awsboto.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PythonTutorials/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PythonTutorials/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PythonTutorials/DictionaryProgramming3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PythonTutorials/DictionaryProgramminh.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PythonTutorials/RandomGameCheck.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PythonTutorials/StringMethodsProgramming.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PythonTutorials/TheBinaries.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PythonTutorials/TupleProgramminhg.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PythonTutorials/TupleVsList.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PythonTutorials/WhileLooping.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PythonTutorials/numberTest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PythonTutorials/setProgramming.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../boto3/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../boto3/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../boto3/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../boto3/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../boto3/boto3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../boto3/boto3ec2start.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../boto3/boto3ec2stop.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../boto3/boto3s3bucketaccess.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../boto3/boto3s3create.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../boto3/boto3s3delete.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pickleProgramming.py" beforeDir="false" afterPath="$PROJECT_DIR$/pickleProgramming.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../HelloWorld/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../HelloWorld/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../awsboto/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../PythonTutorials/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../awsboto/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../PythonTutorials/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../awsboto/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../boto3/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../awsboto/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../PythonProgramming/awsboto/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../awsboto/awsboto.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../PythonTutorials/PythonTutorials.iml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -14,35 +97,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/FileIOChallenge.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" column="23" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/pickleProgramming.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/sample1.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" selection-start-line="10" selection-end-line="10" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -64,6 +119,8 @@
         <option value="$PROJECT_DIR$/sample1.txt" />
         <option value="$PROJECT_DIR$/FileIOChallenge.py" />
         <option value="$PROJECT_DIR$/pickleProgramming.py" />
+        <option value="$PROJECT_DIR$/recepieShelveProgramming.py" />
+        <option value="$PROJECT_DIR$/shelveChallenge.py" />
       </list>
     </option>
   </component>
@@ -95,7 +152,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547312824836" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547315972746" />
     <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -113,7 +170,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.FileIOChallenge">
+  <component name="RunManager" selected="Python.shelveChallenge">
     <configuration name="FileIO" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="AdvancedPythonProject" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -177,8 +234,52 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="recepieShelveProgramming" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="AdvancedPythonProject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/recepieShelveProgramming.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="shelveChallenge" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="AdvancedPythonProject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/shelveChallenge.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.shelveChallenge" />
+        <item itemvalue="Python.recepieShelveProgramming" />
         <item itemvalue="Python.FileIOChallenge" />
         <item itemvalue="Python.FileIOWrite" />
         <item itemvalue="Python.FileIO" />
@@ -201,16 +302,17 @@
   <component name="ToolWindowManager">
     <frame x="64" y="-11" width="1303" height="780" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25338647" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25338647" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32921174" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32868218" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -268,6 +370,20 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/pickleProgramming.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="391" column="59" lean-forward="true" selection-start-line="391" selection-start-column="59" selection-end-line="391" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/FileIOChallenge.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
@@ -275,10 +391,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pickleProgramming.py">
+    <entry file="file://$PROJECT_DIR$/recepieShelveProgramming.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        <state relative-caret-position="180">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ShelveChallengeFile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="82" selection-start-line="3" selection-start-column="82" selection-end-line="3" selection-end-column="82" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shelveChallenge.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
         </state>
       </provider>
     </entry>

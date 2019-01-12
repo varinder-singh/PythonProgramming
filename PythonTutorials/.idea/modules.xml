@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/awsboto.iml" filepath="$PROJECT_DIR$/awsboto.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PythonTutorials.iml" filepath="$PROJECT_DIR$/PythonTutorials.iml" />
     </modules>
   </component>
 </project>
