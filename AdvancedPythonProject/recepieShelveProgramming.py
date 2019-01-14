@@ -1,6 +1,6 @@
 # Shelve is a persistent dictionary
 # Modifying items in a shelve
-
+# Values are pickled before it is written and unpickle before read
 import shelve
 
 list1 = ["Varinder", "Arun", "Prasanta"]
