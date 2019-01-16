@@ -1,94 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="99cfb41f-03d4-43e9-8cdc-b4b58036320d" name="Default Changelist" comment="adding fileio read practice python file">
-      <change afterPath="$PROJECT_DIR$/BinaryIO.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/binary1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/binary2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pickleImelda" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pickleprogramming.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/receipe.bak" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/receipe.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/receipe.dir" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/recepieShelveProgramming.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shelveChallenge.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shelveFile.bak" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shelveFile.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shelveFile.dir" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shelveProgramming.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PythonProgramming/AdvancedPythonProject/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PythonProgramming/AdvancedPythonProject/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PythonProgramming/AdvancedPythonProject/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PythonProgramming/AdvancedPythonProject/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PythonProgramming/AdvancedPythonProject/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PythonProgramming/AdvancedPythonProject/AdvancedPythonProject.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PythonProgramming/AdvancedPythonProject/FileIOChallenge.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PythonProgramming/AdvancedPythonProject/FileIORead.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PythonProgramming/AdvancedPythonProject/FileIOWrite.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PythonProgramming/AdvancedPythonProject/cityFile.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PythonProgramming/AdvancedPythonProject/pickleProgramming.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PythonProgramming/AdvancedPythonProject/sample.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PythonProgramming/AdvancedPythonProject/sample1.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PythonProgramming/HelloWorld/.idea/dictionaries/varinder.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PythonProgramming/HelloWorld/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PythonProgramming/HelloWorld/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PythonProgramming/HelloWorld/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PythonProgramming/HelloWorld/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PythonProgramming/HelloWorld/DictionaryPrograming.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PythonProgramming/HelloWorld/FlowControl1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PythonProgramming/HelloWorld/Hello.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PythonProgramming/HelloWorld/HelloWorld.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PythonProgramming/HelloWorld/IPAddressProblem.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PythonProgramming/HelloWorld/IteratorProgramming.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PythonProgramming/HelloWorld/ListProgramUsingConstructor.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PythonProgramming/HelloWorld/ListProgramming.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PythonProgramming/HelloWorld/RangeProgramming.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PythonProgramming/HelloWorld/SetChallenge.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PythonProgramming/HelloWorld/SetQnAProblems.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PythonProgramming/HelloWorld/StringFormatting.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PythonProgramming/HelloWorld/StringManipulationJoin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PythonProgramming/HelloWorld/TestWhileLoopQuizProblem8.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PythonProgramming/HelloWorld/TupleProgramming.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PythonProgramming/HelloWorld/continuebreak.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PythonProgramming/HelloWorld/forLooping.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PythonProgramming/HelloWorld/frozenSetPrograming.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PythonProgramming/HelloWorld/ifthenelse.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PythonProgramming/HelloWorld/setProgramming.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PythonProgramming/HelloWorld/variables.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PythonProgramming/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PythonProgramming/awsboto/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PythonProgramming/awsboto/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PythonProgramming/awsboto/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PythonProgramming/awsboto/awsboto.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PythonTutorials/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PythonTutorials/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PythonTutorials/DictionaryProgramming3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PythonTutorials/DictionaryProgramminh.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PythonTutorials/RandomGameCheck.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PythonTutorials/StringMethodsProgramming.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PythonTutorials/TheBinaries.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PythonTutorials/TupleProgramminhg.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PythonTutorials/TupleVsList.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PythonTutorials/WhileLooping.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PythonTutorials/numberTest.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PythonTutorials/setProgramming.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../boto3/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../boto3/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../boto3/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../boto3/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../boto3/boto3.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../boto3/boto3ec2start.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../boto3/boto3ec2stop.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../boto3/boto3s3bucketaccess.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../boto3/boto3s3create.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../boto3/boto3s3delete.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../awsboto/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../PythonTutorials/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../awsboto/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../PythonTutorials/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../awsboto/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../boto3/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../awsboto/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../PythonProgramming/awsboto/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../awsboto/awsboto.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../PythonTutorials/PythonTutorials.iml" afterDir="false" />
-    </list>
+    <list default="true" id="99cfb41f-03d4-43e9-8cdc-b4b58036320d" name="Default Changelist" comment="adding fileio read practice python file" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -137,22 +50,12 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="AdvancedPythonProject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AdvancedPythonProject" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
+      <pane id="ProjectPane" />
       <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547315972746" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547316824114" />
     <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -302,7 +205,7 @@
   <component name="ToolWindowManager">
     <frame x="64" y="-11" width="1303" height="780" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25338647" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25338647" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -312,7 +215,7 @@
       <window_info anchor="bottom" id="Messages" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32868218" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32868218" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
