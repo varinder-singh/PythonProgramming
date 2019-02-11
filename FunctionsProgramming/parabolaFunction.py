@@ -13,7 +13,7 @@ def draw_exes(canvas):
 
 
 def parabola(x):
-    y = x * x / 100
+    y = (x * x) / 100
     return y
 
 
