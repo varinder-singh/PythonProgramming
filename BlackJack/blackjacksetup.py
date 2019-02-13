@@ -58,7 +58,7 @@ tkinter.Label(card_frame, textvariable=dealer_score_label, background="green", f
 dealer_card_frame = tkinter.Frame(card_frame, background="green")
 dealer_card_frame.grid(row=0, column=1, sticky="ew", rowspan=2)
 
-player_score_label= tkinter.IntVar()
+player_score_label = tkinter.IntVar()
 tkinter.Label(card_frame, text="Player", background="green", fg="white").grid(row=0, column=0)
 tkinter.Label(card_frame, textvariable=player_score_label, background="green", fg="white").grid(row=3, column=0)
 
