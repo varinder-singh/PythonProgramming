@@ -1,14 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="aeb91a84-3101-447f-8895-36e679730017" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/modifiedsongs.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/p.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/p1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/propertysettersgetters.py" afterDir="false" />
+    <list default="true" id="16714029-73e7-4348-b2a4-86e123719e8a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../ObjectOriented/modifiedsongs.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ObjectOriented/p.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ObjectOriented/p1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ObjectOriented/propertysettersgetters.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DFGroupby.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../legislators/test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/song.py" beforeDir="false" afterPath="$PROJECT_DIR$/song.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ObjectOriented/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ObjectOriented/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ObjectOriented/song.py" beforeDir="false" afterPath="$PROJECT_DIR$/../ObjectOriented/song.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../legislators/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../legislators/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../legislators/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../legislators/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -35,13 +36,14 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/kettle.py" />
-        <option value="$PROJECT_DIR$/account.py" />
-        <option value="$PROJECT_DIR$/song.py" />
-        <option value="$PROJECT_DIR$/modifiedsongs.py" />
-        <option value="$PROJECT_DIR$/propertysettersgetters.py" />
-        <option value="$PROJECT_DIR$/p.py" />
-        <option value="$PROJECT_DIR$/p1.py" />
+        <option value="$PROJECT_DIR$/mainapp.py" />
+        <option value="$PROJECT_DIR$/multithreading.py" />
+        <option value="$PROJECT_DIR$/generatorExamples.py" />
+        <option value="$PROJECT_DIR$/numpyExercises.py" />
+        <option value="$PROJECT_DIR$/pandasSeries.py" />
+        <option value="$PROJECT_DIR$/DataFrames.py" />
+        <option value="$PROJECT_DIR$/DFGroupby.py" />
+        <option value="$PROJECT_DIR$/DFJoins.py" />
       </list>
     </option>
   </component>
@@ -57,14 +59,13 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554056234259" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../legislators" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1556156012598" />
     <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -82,9 +83,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.p1">
-    <configuration name="modifiedsongs" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="ObjectOriented" />
+  <component name="RunManager" selected="Python.DFJoins">
+    <configuration name="DFGroupby" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="RestFulTest" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -95,7 +96,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/modifiedsongs.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DFGroupby.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -104,8 +105,8 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="p" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="ObjectOriented" />
+    <configuration name="DFJoins" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="RestFulTest" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -116,7 +117,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/p.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DFJoins.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -125,8 +126,8 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="p1" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="ObjectOriented" />
+    <configuration name="DataFrames" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="RestFulTest" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -137,7 +138,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/p1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DataFrames.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -146,8 +147,8 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="propertysettersgetters" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="ObjectOriented" />
+    <configuration name="numpyExercises" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="RestFulTest" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -158,7 +159,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/propertysettersgetters.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/numpyExercises.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -167,8 +168,8 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="song" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="ObjectOriented" />
+    <configuration name="pandasSeries" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="RestFulTest" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -179,7 +180,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/song.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pandasSeries.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -190,11 +191,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.p1" />
-        <item itemvalue="Python.p" />
-        <item itemvalue="Python.propertysettersgetters" />
-        <item itemvalue="Python.modifiedsongs" />
-        <item itemvalue="Python.song" />
+        <item itemvalue="Python.DFJoins" />
+        <item itemvalue="Python.DFGroupby" />
+        <item itemvalue="Python.DataFrames" />
+        <item itemvalue="Python.pandasSeries" />
+        <item itemvalue="Python.numpyExercises" />
       </list>
     </recent_temporary>
   </component>
@@ -203,18 +204,18 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="aeb91a84-3101-447f-8895-36e679730017" name="Default Changelist" comment="" />
-      <created>1550114773149</created>
+      <changelist id="16714029-73e7-4348-b2a4-86e123719e8a" name="Default Changelist" comment="" />
+      <created>1554055803656</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1550114773149</updated>
+      <updated>1554055803656</updated>
     </task>
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="65" y="-4" width="1301" height="772" extended-state="6" />
+    <frame x="67" y="25" width="1299" height="743" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17370518" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26576218" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -241,67 +242,66 @@
       <window_info anchor="right" id="Palette&#9;" order="7" />
     </layout>
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <default-breakpoints>
-        <breakpoint type="python-exception">
-          <properties notifyOnTerminate="true" exception="BaseException">
-            <option name="notifyOnTerminate" value="true" />
-          </properties>
-        </breakpoint>
-      </default-breakpoints>
-    </breakpoint-manager>
-  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/account.py">
+    <entry file="file://$PROJECT_DIR$/mainapp.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="16" column="79" selection-start-line="16" selection-start-column="79" selection-end-line="16" selection-end-column="79" />
+        <state relative-caret-position="405">
+          <caret line="27" column="17" selection-start-line="27" selection-start-column="17" selection-end-line="27" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/multithreading.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="8" selection-start-line="16" selection-start-column="8" selection-end-line="16" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/numpyExercises.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="21" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pandasSeries.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="675">
+          <caret line="46" column="51" selection-start-line="46" selection-start-column="51" selection-end-line="46" selection-end-column="51" />
           <folding>
-            <element signature="e#0#15#0" expanded="true" />
+            <element signature="e#28#47#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/song.py">
+    <entry file="file://$PROJECT_DIR$/DataFrames.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1035">
-          <caret line="69" column="33" selection-start-line="69" selection-start-column="33" selection-end-line="69" selection-end-column="33" />
+        <state relative-caret-position="336">
+          <caret line="49" column="17" selection-start-line="49" selection-start-column="17" selection-end-line="49" selection-end-column="17" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/propertysettersgetters.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="32" selection-start-line="14" selection-start-column="32" selection-end-line="14" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/p1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" selection-start-line="18" selection-end-line="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/modifiedsongs.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="45" selection-start-line="7" selection-start-column="45" selection-end-line="7" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/p.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/kettle.py">
+    <entry file="file://$PROJECT_DIR$/generatorExamples.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
           <caret line="16" column="23" selection-start-line="16" selection-start-column="23" selection-end-line="16" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DFJoins.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="23" lean-forward="true" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DFGroupby.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="38" selection-start-line="13" selection-start-column="38" selection-end-line="13" selection-end-column="38" />
         </state>
       </provider>
     </entry>

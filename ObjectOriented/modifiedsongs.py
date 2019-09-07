@@ -1,13 +1,10 @@
-# Notice class Album and Artist have circular references
-
-
 class Song:
     """A class to have a song blueprint of a song"""
 
     def __init__(self, name, artist, duration=0):
         """
         :param name: Initializes the title
-        :param artist: Initializes with the artist name(optional)
+        :param artist: (Str) Name of the artist
         :param duration: duration of the song
         """
         self.name = name
@@ -69,22 +66,7 @@ class Artist:
         """
         self.albums.append(album)
 
-    def add_song(self, album, year, song):
-        """
-        This method adds a song for the artist.
-        :param album: (str) album name.
-        :param year: (str) year in which the song was released.
-        :param song: (str) name of the song.
-        :return: null
-        """
-        album_found = find_object(album, self.albums)
-        if album_found is None:
-            print("Album {} is not found. creating a new album object".format(album_found))
-            new_album = Album(album, year, self.name)
-            self.albums.append(new_album)
-        album_found.add_song(song)
 
-    
 def find_object(field, iterable):
     for item in iterable:
         if item.name == field:
@@ -98,37 +80,10 @@ def load_data():
             artist_field, album_field, year_field, song_field = tuple(line.strip('\n').split('\t'))
             year_field = int(year_field)
             print("{} : {} : {} : {}".format(artist_field, album_field, year_field, song_field))
-
-        # This code is old and does not properly conforms to the oop standard.
-        # Writing new lines of code underneath this.
-
-            # check is the artist is None.
-        #     if new_artist is None:
-        #         new_artist = Artist(artist_field)
-        #     elif new_artist.name != artist_field:
-        #         new_artist.add_album(new_album)
-        #         artist_list.append(new_artist)
-        #         new_artist = Artist(artist_field)
-        #         new_album = None
-        #
-        #     if new_album is None:
-        #         new_album = Album(album_field, year_field, new_artist)
-        #     elif new_album.name != album_field:
-        #         new_artist.add_album(new_album)
-        #         new_album = Album(album_field, year_field, new_artist)
-        #
-        #     new_song = Song(song_field, new_artist)
-        #     new_album.add_song(new_song)
-        # # Remember read will not allow the last line data to be entered in the list
-        # if new_artist is not None:
-        #     if new_album is not None:
-        #         new_artist.add_album(new_album)
-        #     artist_list.append(new_artist)
             new_artist = find_object(artist_field, artist_list)
             if new_artist is None:
                 new_artist = Artist(artist_field)
                 artist_list.append(new_artist)
-            new_artist.add_song(album_field, year_field, song_field)
     return artist_list
 
 
