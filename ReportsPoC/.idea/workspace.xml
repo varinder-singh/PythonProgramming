@@ -2,11 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="da98bfe2-481d-4e74-9b9f-2c52015cbcde" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../boto3/boto3cloudfrontaccess.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FunctionsProgramming/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../FunctionsProgramming/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FunctionsProgramming/FunctionsAnatomy.py" beforeDir="false" afterPath="$PROJECT_DIR$/../FunctionsProgramming/FunctionsAnatomy.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TimeandDateProgramming/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TimeandDateProgramming/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../boto3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../boto3/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UdemyML/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../UdemyML/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../legislators/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../legislators/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -27,10 +25,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$USER_HOME$/Documents/MyMobileBills/INV-KA18102613727-1020177145-06-JUL-2018.html">
+        <entry file="file://$PROJECT_DIR$/calcnightdwell.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="21593" selection-start-line="2" selection-start-column="21593" selection-end-line="2" selection-end-column="21593" />
+            <state relative-caret-position="425">
+              <caret line="25" column="19" selection-end-line="25" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -49,8 +47,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Python Script" />
         <option value="HTML File" />
+        <option value="Python Script" />
       </list>
     </option>
   </component>
@@ -70,6 +68,7 @@
         <option value="$PROJECT_DIR$/report/report.html" />
         <option value="$PROJECT_DIR$/test1.py" />
         <option value="$USER_HOME$/Documents/MyMobileBills/INV-KA18102613727-1020177145-06-JUL-2018.html" />
+        <option value="$PROJECT_DIR$/calcnightdwell.py" />
       </list>
     </option>
   </component>
@@ -85,8 +84,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -103,11 +100,13 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548766002652" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554371054983" />
     <property name="last_opened_file_path" value="$USER_HOME$/Documents/MyMobileBills/INV-KA18102613727-1020177145-06-JUL-2018.html" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
@@ -125,7 +124,28 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.calcnightdwell">
+    <configuration name="calcnightdwell" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="ReportsPoC" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/calcnightdwell.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="test1" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="ReportsPoC" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -149,6 +169,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.calcnightdwell" />
         <item itemvalue="Python.test1" />
       </list>
     </recent_temporary>
@@ -169,7 +190,7 @@
   <component name="ToolWindowManager">
     <frame x="54" y="-8" width="1320" height="784" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2579365" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.13809524" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -207,13 +228,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/report/report.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
@@ -228,11 +242,50 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/test1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/calcnightdwell.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="25" column="19" selection-end-line="25" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
   </component>
   <component name="masterDetails">
     <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
       <state key="GlobalLibrariesConfigurable.UI">
         <settings>
+          <last-edited>Python 3.7 (FunctionsProgramming) interpreter library</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -249,6 +302,19 @@
             <option name="proportions">
               <list>
                 <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>ReportsPoC</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
               </list>
             </option>
           </splitter-proportions>

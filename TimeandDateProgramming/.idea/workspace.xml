@@ -2,9 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="12667e80-5d50-4a73-8991-7f54b7ec875e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../boto3/boto3cloudfrontaccess.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pdadequest/DBScript.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ReportsPoC/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ReportsPoC/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ReportsPoC/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ReportsPoC/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UdemyML/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../UdemyML/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../boto3/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../boto3/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../boto3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../boto3/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../legislators/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../legislators/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -44,10 +48,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="54" />
+    <option name="x" value="1358" />
     <option name="y" value="-8" />
-    <option name="width" value="1320" />
-    <option name="height" value="784" />
+    <option name="width" value="1936" />
+    <option name="height" value="1096" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -55,19 +59,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="TimeandDateProgramming" type="b2602c69:ProjectViewProjectNode" />
-              <item name="TimeandDateProgramming" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
+      <pane id="ProjectPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -102,10 +96,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="54" y="-8" width="1320" height="784" extended-state="6" />
+    <frame x="1358" y="-8" width="1936" height="1096" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25266525" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
